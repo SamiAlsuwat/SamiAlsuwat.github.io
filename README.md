@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://SamiAlsuwat.github.io">
+  <a href="https://salsuwat.github.io">
     <img src="https://img.shields.io/badge/🌐 Visit My Website-blue?style=for-the-badge" />
   </a>
   <a href="mailto:Al-suwat@live.com">
@@ -50,7 +50,7 @@
 ## 📚 Featured Projects
 
 ### 🌐 Course Website
-🔗 https://SamiAlsuwat.github.io  
+🔗 https://salsuwat.github.io  
 
 ---
 
