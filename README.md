@@ -1,16 +1,12 @@
-<h1 align="center">👋 Sami Saad Alsuwat</h1>
-<h3 align="center">💻 Software Developer | Computer Science Lecturer 🚀</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer;Always+Learning+🚀&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-  <a href="https://salsuwat.github.io">
-    <img src="https://img.shields.io/badge/🌐 Visit My Website-blue?style=for-the-badge" />
+  <a href="https://emadalsuwat.github.io">
+    <img src="https://img.shields.io/badge/🌐 Website-Visit-blue?style=for-the-badge" />
   </a>
-  <a href="mailto:Al-suwat@live.com">
-    <img src="https://img.shields.io/badge/📧 Contact Me-red?style=for-the-badge" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="tel:+966XXXXXXXXX">
+    <img src="https://img.shields.io/badge/📱 Phone-Call-green?style=for-the-badge" />
   </a>
 </p>
 
