@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://salsuwat.github.io">
+  <a href="https://SamiAlsuwat.github.io">
     <img src="https://img.shields.io/badge/🌐 Website-Visit-blue?style=for-the-badge" />
   </a>
   <a href="mailto:your-email@example.com">
