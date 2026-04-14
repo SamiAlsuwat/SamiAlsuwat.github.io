@@ -9,7 +9,7 @@
   <a href="https://SamiAlsuwat.github.io">
     <img src="https://img.shields.io/badge/🌐 Visit My Website-blue?style=for-the-badge" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:Al-suwat@live.com">
     <img src="https://img.shields.io/badge/📧 Contact Me-red?style=for-the-badge" />
   </a>
 </p>
@@ -50,7 +50,7 @@
 ## 📚 Featured Projects
 
 ### 🌐 Course Website
-🔗 https://SamiAsuwat.github.io  
+🔗 https://salsuwat.github.io  
 
 ---
 
