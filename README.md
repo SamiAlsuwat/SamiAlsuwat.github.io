@@ -50,7 +50,7 @@
 ## 📚 Featured Projects
 
 ### 🌐 Course Website
-🔗 https://salsuwat.github.io  
+🔗 https://SamiAlsuwat.github.io  
 
 ---
 
